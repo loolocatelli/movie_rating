@@ -5,7 +5,7 @@ name = st.text_input("What's your name?")
 if name:
   st.write(f"Hello, {name}")
 
-mport streamlit as st
+import streamlit as st
 import openai
 
 # Title
